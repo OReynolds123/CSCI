@@ -1,0 +1,34 @@
+cs1302-gallery:
+total 60
+-rw-r--r-- 1 ugrad  2649 Apr 10 20:18 pom.xml
+-rw-r--r-- 1 ugrad 48446 Apr 10 20:18 README.md
+-rw-r--r-- 1 ugrad     0 Apr 27 11:32 rec19652
+drwxr-xr-x 2 ugrad  4096 Apr 27 11:28 resources
+drwxr-xr-x 3 ugrad  4096 Apr 10 20:18 src
+
+cs1302-gallery/resources:
+total 604
+-rw-r--r-- 1 ugrad  23587 Apr 26 20:10 ErrorImg.jpg
+-rw-r--r-- 1 ugrad 591524 Apr 26 20:10 OwenPicture.jpg
+
+cs1302-gallery/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr 27 11:28 main
+
+cs1302-gallery/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr 10 20:18 java
+
+cs1302-gallery/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Apr 10 20:18 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr 27 11:28 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 24
+-rw-r--r-- 1 ugrad 16627 Apr 27 11:28 GalleryApp.java
+-rw-r--r-- 1 ugrad   790 Apr 10 20:18 GalleryDriver.java
+/home/ugrads/reynolds/CSCI1302/Projects/cs1302-gallery:/home/work/cs1302a

@@ -1,0 +1,92 @@
+cs1302-minesweeper-alpha:
+total 2552
+drwxr-xr-x 3 ugrad    4096 Jan 31 14:18 bin
+drwxr-xr-x 3 ugrad    4096 Jan 30 12:03 doc
+drwxr-xr-x 2 ugrad    4096 Jan 15 21:26 examples
+-rw-r--r-- 1 ugrad     111 Jan 30 11:45 EXTRA.md
+-rw-r--r-- 1 ugrad 2525747 Jan 15 21:26 mine.jpg
+-rw-r--r-- 1 ugrad   58548 Jan 15 21:26 README.md
+-rw-r--r-- 1 ugrad       0 Jan 31 14:20 rec67580
+drwxr-xr-x 3 ugrad    4096 Jan 15 21:26 src
+drwxr-xr-x 3 ugrad    4096 Jan 30 11:19 tests
+
+cs1302-minesweeper-alpha/bin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jan 31 14:18 cs1302
+
+cs1302-minesweeper-alpha/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jan 31 14:18 game
+
+cs1302-minesweeper-alpha/bin/cs1302/game:
+total 20
+-rw-r--r-- 1 ugrad   989 Jan 31 14:18 MinesweeperDriver.class
+-rw-r--r-- 1 ugrad 10456 Jan 31 14:18 MinesweeperGame.class
+-rw-r--r-- 1 ugrad  1295 Jan 31 14:18 MinesweeperGenWriter.class
+
+cs1302-minesweeper-alpha/doc:
+total 80
+-rw-r--r-- 1 ugrad   911 Jan 30 13:20 allclasses-frame.html
+-rw-r--r-- 1 ugrad   851 Jan 30 13:20 allclasses-noframe.html
+-rw-r--r-- 1 ugrad  3553 Jan 30 13:20 constant-values.html
+drwxr-xr-x 3 ugrad  4096 Jan 30 12:03 cs1302
+-rw-r--r-- 1 ugrad  3503 Jan 30 13:20 deprecated-list.html
+-rw-r--r-- 1 ugrad  7938 Jan 30 13:20 help-doc.html
+-rw-r--r-- 1 ugrad 15794 Jan 30 13:20 index-all.html
+-rw-r--r-- 1 ugrad  2782 Jan 30 13:20 index.html
+-rw-r--r-- 1 ugrad  4237 Jan 30 13:20 overview-tree.html
+-rw-r--r-- 1 ugrad    12 Jan 30 13:20 package-list
+-rw-r--r-- 1 ugrad   827 Jan 30 13:20 script.js
+-rw-r--r-- 1 ugrad 12842 Jan 30 12:03 stylesheet.css
+
+cs1302-minesweeper-alpha/doc/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jan 30 12:03 game
+
+cs1302-minesweeper-alpha/doc/cs1302/game:
+total 72
+-rw-r--r-- 1 ugrad  9137 Jan 30 13:20 MinesweeperDriver.html
+-rw-r--r-- 1 ugrad 26100 Jan 30 13:20 MinesweeperGame.html
+-rw-r--r-- 1 ugrad  9494 Jan 30 13:20 MinesweeperGenWriter.html
+-rw-r--r-- 1 ugrad  1004 Jan 30 13:20 package-frame.html
+-rw-r--r-- 1 ugrad  4962 Jan 30 13:20 package-summary.html
+-rw-r--r-- 1 ugrad  4231 Jan 30 13:20 package-tree.html
+
+cs1302-minesweeper-alpha/examples:
+total 16
+-rw-r--r-- 1 ugrad 730 Jan 15 21:26 11-by-11.txt
+-rw-r--r-- 1 ugrad 310 Jan 15 21:26 11-by-5.txt
+-rw-r--r-- 1 ugrad 358 Jan 15 21:26 5-by-11.txt
+-rw-r--r-- 1 ugrad 148 Jan 15 21:26 5-by-5.txt
+
+cs1302-minesweeper-alpha/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Jan 15 21:26 cs1302
+
+cs1302-minesweeper-alpha/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Jan 31 14:17 game
+
+cs1302-minesweeper-alpha/src/cs1302/game:
+total 32
+-rw-r--r-- 1 ugrad  1330 Jan 30 10:48 MinesweeperDriver.java
+-rw-r--r-- 1 ugrad 21181 Jan 31 14:17 MinesweeperGame.java
+-rw-r--r-- 1 ugrad  2034 Jan 29 20:11 MinesweeperGenWriter.java
+
+cs1302-minesweeper-alpha/tests:
+total 44
+-rw-r--r-- 1 ugrad    5 Jan 31 14:10 seed.gen.txt
+-rw-r--r-- 1 ugrad  155 Jan 23 23:31 tc01.in.txt
+-rw-r--r-- 1 ugrad 7073 Jan 22 23:58 tc01.out.txt
+-rw-r--r-- 1 ugrad   46 Jan 23 22:37 tc01.seed.txt
+-rw-r--r-- 1 ugrad  149 Jan 23 23:34 tc02.in.txt
+-rw-r--r-- 1 ugrad 4901 Jan 27 22:22 tc03.in.txt
+-rw-r--r-- 1 ugrad   21 Jan 30 11:38 tc04.in.txt
+-rw-r--r-- 1 ugrad   13 Jan 27 21:38 test1.txt
+drwxr-xr-x 2 ugrad 4096 Jan 23 23:41 Test2
+
+cs1302-minesweeper-alpha/tests/Test2:
+total 8
+-rw-r--r-- 1 ugrad 155 Jan 23 23:41 tc01.in.txt
+-rw-r--r-- 1 ugrad  47 Jan 23 23:41 tc01.seed.txt
+/home/ugrads/reynolds/cs1302-minesweeper-alpha:/home/work/cs1302a
